@@ -12,7 +12,7 @@ This project is a simulation of a crypto wallet on a certain network. The networ
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/nminev95/wallet-limeacademy-entry-task.git`
+1. Clone the repository: `git clone https://github.com/nminev95/lime-entry-task.git`
 2. Install Node.js (if not already installed).
 3. Install project dependencies: `npm install`
 4. Create a `.env` file in the root project directory and add the following contents inside:
